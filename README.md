@@ -1,2 +1,2 @@
 # blockchain-simple
-Building blockchain with golang
+Blockchain simple with go
